@@ -107,7 +107,10 @@
      "Gain a free [Pantheon] belief",
      "Gain a free [Founder] belief",
      "Gain a free [Follower] belief",
-     "Gain a free [Enhancer] belief"
+     "Gain a free [Enhancer] belief",
+     "Gain a free [Any] belief",
+     "Gain a free [Follower] belief",
+     "Can only be built [in holy cities]"
    ]
 	},
 	{
