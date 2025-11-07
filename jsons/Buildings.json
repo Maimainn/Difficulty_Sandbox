@@ -112,7 +112,7 @@
 	},
 	{
 		"name": "Free Technology",
-   "isNationalWonder": true,
+    "isNationalWonder": true,
 		"gold": 999,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
