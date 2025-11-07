@@ -112,11 +112,12 @@
 	},
 	{
 		"name": "Free Technology",
+   "isNationalWonder": true,
 		"gold": 999,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
-		"uniques": ["[10] Free Technologies"]
+		"uniques": ["[5] Free Technologies"]
 	},
 ]
 
