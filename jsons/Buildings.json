@@ -102,7 +102,13 @@
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
-		"uniques": ["Gain a free [Any] belief"]
+		"uniques": [
+     "Gain a free [Any] belief",
+     "Gain a free [Pantheon] belief",
+     "Gain a free [Founder] belief",
+     "Gain a free [Follower] belief",
+     "Gain a free [Enhancer] belief"
+   ]
 	},
 	{
 		"name": "Free Technology",
